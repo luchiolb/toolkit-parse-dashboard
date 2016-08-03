@@ -9,7 +9,8 @@
     "Pointer Permissions Editor",
     "Send Push Notifications",
     "Logs Viewer",
-    "Push Status Page"
+    "Push Status Page",
+    "Relation Editor"
   ],
   "description": "The Parse Dashboard",
   "keywords": [
@@ -18,7 +19,7 @@
   ],
   "homepage": "https://github.com/ParsePlatform/parse-dashboard",
   "bugs": "https://github.com/ParsePlatform/parse-dashboard/issues",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "repository": {
     "type": "git",
     "url": "https://github.com/ParsePlatform/parse-dashboard"
@@ -45,7 +46,7 @@
     "babel-runtime": "~5.8.25",
     "css-loader": "~0.18.0",
     "file-loader": "^0.8.5",
-    "history": "~1.9.1",
+    "history": "^2.1.2",
     "http-server": "~0.8.5",
     "immutable": "~3.7.5",
     "immutable-devtools": "~0.0.4",
@@ -60,7 +61,7 @@
     "react-dnd": "~2.1.4",
     "react-dnd-html5-backend": "~2.0.0",
     "react-dom": "^15.0.1",
-    "react-router": "2.3.0",
+    "react-router": "^2.6.0",
     "sass-loader": "~3.1.2",
     "style-loader": "~0.12.3",
     "svg-prep": "~1.0.0",
